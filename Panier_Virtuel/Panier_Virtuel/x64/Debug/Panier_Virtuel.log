@@ -1,0 +1,8 @@
+﻿  Panier_Virtuel.cpp
+D:\Programming\Workspace_C++\Projet 3IIR\Panier_Virtuel\Panier_Virtuel.cpp(151,13): warning C4189: 'c': local variable is initialized but not referenced
+D:\Programming\Workspace_C++\Projet 3IIR\Panier_Virtuel\Panier_Virtuel.cpp(301,28): warning C4101: 'e': unreferenced local variable
+  main.cpp
+D:\Programming\Workspace_C++\Projet 3IIR\Panier_Virtuel\main.cpp(17,63): warning C4101: 'llll': unreferenced local variable
+  Generating Code...
+D:\Programming\Workspace_C++\Projet 3IIR\Panier_Virtuel\main.cpp(206,1): warning C4701: potentially uninitialized local variable 'choix' used
+  Panier_Virtuel.vcxproj -> D:\Programming\Workspace_C++\Projet 3IIR\Panier_Virtuel\x64\Debug\Panier_Virtuel.exe

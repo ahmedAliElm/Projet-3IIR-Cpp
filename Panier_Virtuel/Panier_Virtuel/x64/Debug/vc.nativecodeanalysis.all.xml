@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>D:\Programming\Worspace C++\Projet 3IIR\Panier_Virtuel\</FILEPATH>
+      <FILENAME>Panier_Virtuel.cpp</FILENAME>
+      <LINE>318</LINE>
+      <COLUMN>28</COLUMN>
+    </SFA>
+    <DEFECTCODE>6289</DEFECTCODE>
+    <DESCRIPTION>Incorrect operator.  Did you intend to use &amp;&amp; instead?</DESCRIPTION>
+    <FUNCTION>Panier::afficherPanier</FUNCTION>
+    <DECORATED>?afficherPanier@Panier@@QEAAXXZ</DECORATED>
+    <FUNCLINE>252</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>D:\Programming\Worspace C++\Projet 3IIR\Panier_Virtuel\</FILEPATH>
+      <FILENAME>Panier_Virtuel.cpp</FILENAME>
+      <LINE>475</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>6289</DEFECTCODE>
+    <DESCRIPTION>Incorrect operator.  Did you intend to use &amp;&amp; instead?</DESCRIPTION>
+    <FUNCTION>Commande::poursuivreCmd</FUNCTION>
+    <DECORATED>?poursuivreCmd@Commande@@QEAAX_N@Z</DECORATED>
+    <FUNCLINE>427</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
